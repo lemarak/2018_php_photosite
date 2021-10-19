@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'quicksand';
+    src: url('../fonts/Quicksand/Quicksand-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+#bodySDA {
+    background-color: #FEFEFE;
+}
+
+.colgrid {
+    background-color:#A3A3A3;
+}
+h1,h2,h3,h4 {
+    color: #3D3D3D;
+    font-family:Helvetica, sans-serif;
+}
+
+.hauteur
+{
+    height:100%;
+}
+.largeur
+{
+    width:100%;
+}
+
+.bas {
+    vertical-align: bottom;
+}
+.erreur, .rougeFonce
+{
+    color:darkred;
+}
+
+span
+{
+    font-size:0.8em;
+    color:darkred;
+}
+
+td,th
+{
+    font-size:0.85em;
+}
+
+p,i
+{
+    font-size:0.95em;
+}
+
+a {
+    color:darkslategrey;
+}
+
+.tSize85
+{
+    font-size:0.85em;
+}
+.tSize75
+{
+    font-size:0.75em;
+}
+
+.aleft
+{
+    text-align: left;
+}
+.darkGrey
+{
+    color:darkgrey;
+}
+.darkBlue
+{
+    color:darkblue;
+}
+
+
+.td_col1
+{
+    width:15%;
+    color:darkgreen;
+    padding:0px;
+}
+.td_col2
+{
+    width:10%;
+    color:darkgreen;
+    text-align: center;
+}
+
+.ui.menu .item img.logo 
+{
+    margin-right: 2em;
+
+}
+
+#bloc
+{
+    border:1px solid black;
+    margin:auto;
+    width:60%;
+    padding:10px;
+}
+
+#bloc_identification
+{
+    width:30%;
+    min-width:200px;
+    margin:auto;
+    text-align:center;
+}
+
+.maintop {
+    margin-top: 100px;
+}
+.wireframe {
+    margin-top: 2em;
+}
+.ui.footer.segment {
+    margin: 5em 0em 0em;
+    padding: 5em 0em;
+}
+
